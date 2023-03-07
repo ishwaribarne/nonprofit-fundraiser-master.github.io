@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "image",
+			"path": "C:/Users/MY PC/Pictures/image"
+		},
+		{
+			"name": "task_1_March",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task_1_March"
+	}
+}
